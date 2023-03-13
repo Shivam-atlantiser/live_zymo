@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1" viewBox="0 0 286 286">
+  <defs>
+    <style>.cls-1{fill:none;}.cls-2{fill:#fff;}.cls-3{clip-path:url(#clip-path);}.cls-4{fill:url(#linear-gradient);}.cls-5{clip-path:url(#clip-path-2);}.cls-6{fill:url(#linear-gradient-2);}.cls-7{font-size:18.32px;font-family:MyriadPro-Regular, Myriad Pro;}.cls-14,.cls-7{fill:#231f20;}.cls-8{letter-spacing:0.27em;}.cls-9{letter-spacing:0.29em;}.cls-10{letter-spacing:0.3em;}.cls-11{letter-spacing:0.29em;}.cls-12{letter-spacing:0.29em;}.cls-13{letter-spacing:0.29em;}.cls-14{font-size:4.94px;font-family:Arial-BoldMT, Arial;font-weight:700;}</style>
+    <clipPath id="clip-path">
+      <path class="cls-1" d="M220.35,68c-10.64,0-19.26,6.27-19.26,14v60.18a24.5,24.5,0,0,1-49,0,45.94,45.94,0,0,1-10.84,29.72,46.17,46.17,0,0,0,81.39-26.45.13.13,0,0,0,0-.06V68Z"></path>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1970.75" y1="876.44" x2="1971.11" y2="876.44" gradientTransform="matrix(230.73, 0, 0, -230.73, -454578.91, 202352.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0072bc"></stop>
+      <stop offset="0.27" stop-color="#007ec6"></stop>
+      <stop offset="0.76" stop-color="#009ce0"></stop>
+      <stop offset="1" stop-color="#00aeef"></stop>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path class="cls-1" d="M141.26,112.43c-10.3,10.71-10.89,25.16-10.87,28.84,0,.29,0,.59,0,.89a24.46,24.46,0,1,1-14.87-22.54,51.19,51.19,0,0,1,8.14-20.1,46.19,46.19,0,1,0,28.41,42.64,24.5,24.5,0,1,1,49,0V103a46.2,46.2,0,0,0-59.83,9.43"></path>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="1975.05" y1="875.68" x2="1975.4" y2="875.68" gradientTransform="matrix(400.65, 0, 0, -400.65, -791244.89, 350984.53)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#939598"></stop>
+      <stop offset="0.29" stop-color="#888a8c"></stop>
+      <stop offset="0.75" stop-color="#6e7072"></stop>
+      <stop offset="1" stop-color="#58595b"></stop>
+    </linearGradient>
+  </defs>
+  <title>contiderma-zymo</title>
+  <rect class="cls-2" width="286" height="286"></rect>
+  <g class="cls-3">
+    <rect class="cls-4" x="141.26" y="67.98" width="81.4" height="120.35"></rect>
+  </g>
+  <g class="cls-5">
+    <rect class="cls-6" x="59.75" y="95.98" width="141.34" height="92.35"></rect>
+  </g>
+  <text class="cls-7" transform="translate(64.45 212.89)">
+    <tspan class="cls-8">C</tspan>
+    <tspan class="cls-9" x="15.65" y="0">O</tspan>
+    <tspan class="cls-10" x="33.66" y="0">NT</tspan>
+    <tspan class="cls-11" x="65.63" y="0">I</tspan>
+    <tspan class="cls-12" x="75.4" y="0">DER</tspan>
+    <tspan class="cls-13" x="122.69" y="0">M</tspan>
+    <tspan x="142.64" y="0">A</tspan>
+  </text>
+  <text class="cls-14" transform="translate(217.69 202.59)">TM</text>
+</svg>

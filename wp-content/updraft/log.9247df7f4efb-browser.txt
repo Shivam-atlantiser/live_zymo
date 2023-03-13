@@ -1,0 +1,442 @@
+0000.033 (R) [notice] Looking for db archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-db.gz
+0000.033 (R) [notice] Archive is expected to be size: 1590.5 KB: OK
+0000.036 (R) [notice] Looking for plugins archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-plugins.zip
+0000.037 (R) [notice] Archive is expected to be size: 24275.3 KB: OK
+0000.037 (R) [notice] Looking for plugins archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-plugins2.zip
+0000.037 (R) [notice] Archive is expected to be size: 8523.2 KB: OK
+0000.039 (R) [notice] Looking for themes archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-themes.zip
+0000.039 (R) [notice] Archive is expected to be size: 169349.7 KB: OK
+0000.040 (R) [notice] Looking for themes archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-themes2.zip
+0000.040 (R) [notice] Archive is expected to be size: 27754.9 KB: OK
+0000.040 (R) [notice] Looking for themes archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-themes3.zip
+0000.040 (R) [notice] Archive is expected to be size: 18073.3 KB: OK
+0000.042 (R) [notice] Looking for uploads archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads.zip
+0000.043 (R) [notice] Archive is expected to be size: 25649.7 KB: OK
+0000.043 (R) [notice] Looking for uploads archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads2.zip
+0000.043 (R) [notice] Archive is expected to be size: 25923.8 KB: OK
+0000.043 (R) [notice] Looking for uploads archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads3.zip
+0000.044 (R) [notice] Archive is expected to be size: 25750.1 KB: OK
+0000.044 (R) [notice] Looking for uploads archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads4.zip
+0000.044 (R) [notice] Archive is expected to be size: 25909.6 KB: OK
+0000.044 (R) [notice] Looking for uploads archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads5.zip
+0000.044 (R) [notice] Archive is expected to be size: 25698.8 KB: OK
+0000.044 (R) [notice] Looking for uploads archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads6.zip
+0000.045 (R) [notice] Archive is expected to be size: 23996.7 KB: OK
+0000.047 (R) [notice] Looking for others archive: file name: backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-others.zip
+0000.047 (R) [notice] Archive is expected to be size: 6171.7 KB: OK
+0000.049 (R) [notice] Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.053 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-db.gz, 1.6 Mb)
+0000.056 (R) [notice] Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.114 (R) [notice] Enabling Maintenance mode&#8230;
+0000.127 (R) [notice] Backup of: https://zymocosmetics.com
+0000.138 (R) [notice] Content URL: https://zymocosmetics.com/wp-content
+0000.138 (R) [notice] Uploads URL: https://zymocosmetics.com/wp-content/uploads
+0000.138 (R) [notice] Old table prefix: zymo_
+0000.138 (R) [notice] Old ABSPATH: /home/zymocosmetics/public_html/
+0000.138 (R) [notice] Site information: multisite = 0
+0000.138 (R) [notice] Site information: sql_mode = NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0000.139 (R) [notice] New table prefix: 54_
+0000.141 (R) [notice] Processing table (InnoDB):  zymo_options - will restore as: 54_options
+0000.191 (R) [notice] Atomic restore: dropping original table (wp_options)
+0000.195 (R) [notice] Atomic restore: renaming new table (54_options) to final table name (wp_options)
+0000.421 (R) [notice] Table prefix has changed: changing option table field(s) accordingly: OK
+0000.426 (R) [notice] Search and replacing table: wp_options: rows: 776
+0000.444 (R) [notice] Processing table (InnoDB):  zymo_site - will restore as: 54_site
+0000.467 (R) [notice] Atomic restore: dropping original table (wp_site)
+0000.467 (R) [notice] Atomic restore: renaming new table (54_site) to final table name (wp_site)
+0000.474 (R) [notice] Search and replacing table: wp_site: rows: 1
+0000.475 (R) [notice] Processing table (InnoDB):  zymo_blogs - will restore as: 54_blogs
+0000.496 (R) [notice] Atomic restore: dropping original table (wp_blogs)
+0000.496 (R) [notice] Atomic restore: renaming new table (54_blogs) to final table name (wp_blogs)
+0000.504 (R) [notice] Search and replacing table: wp_blogs: rows: 1
+0000.504 (R) [notice] Processing table (InnoDB):  zymo_users - will restore as: 54_users
+0000.526 (R) [notice] Atomic restore: dropping original table (wp_users)
+0000.529 (R) [notice] Atomic restore: renaming new table (54_users) to final table name (wp_users)
+0000.538 (R) [notice] Search and replacing table: wp_users: rows: 1
+0000.538 (R) [notice] Processing table (InnoDB):  zymo_usermeta - will restore as: 54_usermeta
+0000.608 (R) [notice] Atomic restore: dropping original table (wp_usermeta)
+0000.629 (R) [notice] Atomic restore: renaming new table (54_usermeta) to final table name (wp_usermeta)
+0000.636 (R) [notice] Table prefix has changed: changing usermeta table field(s) accordingly: OK
+0000.640 (R) [notice] Search and replacing table: wp_usermeta: rows: 55
+0000.642 (R) [notice] Processing table (InnoDB):  zymo_actionscheduler_actions - will restore as: 54_actionscheduler_actions
+0000.668 (R) [notice] Atomic restore: dropping original table (wp_actionscheduler_actions)
+0000.668 (R) [notice] Atomic restore: renaming new table (54_actionscheduler_actions) to final table name (wp_actionscheduler_actions)
+0000.677 (R) [notice] Search and replacing table: wp_actionscheduler_actions: rows: 17
+0000.679 (R) [notice] Processing table (InnoDB):  zymo_actionscheduler_claims - will restore as: 54_actionscheduler_claims
+0000.705 (R) [notice] Atomic restore: dropping original table (wp_actionscheduler_claims)
+0000.705 (R) [notice] Atomic restore: renaming new table (54_actionscheduler_claims) to final table name (wp_actionscheduler_claims)
+0000.714 (R) [notice] Search and replacing table: wp_actionscheduler_claims: rows: 0
+0000.714 (R) [notice] Processing table (InnoDB):  zymo_actionscheduler_groups - will restore as: 54_actionscheduler_groups
+0000.740 (R) [notice] Atomic restore: dropping original table (wp_actionscheduler_groups)
+0000.740 (R) [notice] Atomic restore: renaming new table (54_actionscheduler_groups) to final table name (wp_actionscheduler_groups)
+0000.748 (R) [notice] Search and replacing table: wp_actionscheduler_groups: rows: 3
+0000.749 (R) [notice] Processing table (InnoDB):  zymo_actionscheduler_logs - will restore as: 54_actionscheduler_logs
+0000.770 (R) [notice] Atomic restore: dropping original table (wp_actionscheduler_logs)
+0000.770 (R) [notice] Atomic restore: renaming new table (54_actionscheduler_logs) to final table name (wp_actionscheduler_logs)
+0000.782 (R) [notice] Search and replacing table: wp_actionscheduler_logs: rows: 49
+0000.784 (R) [notice] Processing table (InnoDB):  zymo_blogmeta - will restore as: 54_blogmeta
+0000.799 (R) [notice] Atomic restore: dropping original table (wp_blogmeta)
+0000.800 (R) [notice] Atomic restore: renaming new table (54_blogmeta) to final table name (wp_blogmeta)
+0000.808 (R) [notice] Search and replacing table: wp_blogmeta: rows: 0
+0000.809 (R) [notice] Processing table (InnoDB):  zymo_commentmeta - will restore as: 54_commentmeta
+0000.825 (R) [notice] Atomic restore: dropping original table (wp_commentmeta)
+0000.831 (R) [notice] Atomic restore: renaming new table (54_commentmeta) to final table name (wp_commentmeta)
+0000.842 (R) [notice] Search and replacing table: wp_commentmeta: rows: 0
+0000.843 (R) [notice] Processing table (InnoDB):  zymo_comments - will restore as: 54_comments
+0000.873 (R) [notice] Atomic restore: dropping original table (wp_comments)
+0000.876 (R) [notice] Atomic restore: renaming new table (54_comments) to final table name (wp_comments)
+0000.885 (R) [notice] Search and replacing table: wp_comments: rows: 4
+0000.886 (R) [notice] Processing table (InnoDB):  zymo_links - will restore as: 54_links
+0000.909 (R) [notice] Atomic restore: dropping original table (wp_links)
+0000.913 (R) [notice] Database queries processed: 50 in 0.85 seconds
+0000.913 (R) [notice] Atomic restore: renaming new table (54_links) to final table name (wp_links)
+0000.921 (R) [notice] Search and replacing table: wp_links: rows: 0
+0000.921 (R) [notice] Processing table (InnoDB):  zymo_postmeta - will restore as: 54_postmeta
+0005.281 (R) [notice] Atomic restore: dropping original table (wp_postmeta)
+0005.353 (R) [notice] Atomic restore: renaming new table (54_postmeta) to final table name (wp_postmeta)
+0006.611 (R) [notice] Search and replacing table: wp_postmeta: rows: 106001
+0006.846 (R) [notice] Searching and replacing reached row: 5000
+0006.904 (R) [notice] Searching and replacing reached row: 10000
+0006.953 (R) [notice] Searching and replacing reached row: 15000
+0007.005 (R) [notice] Searching and replacing reached row: 20000
+0007.060 (R) [notice] Searching and replacing reached row: 25000
+0007.119 (R) [notice] Searching and replacing reached row: 30000
+0007.183 (R) [notice] Searching and replacing reached row: 35000
+0007.249 (R) [notice] Searching and replacing reached row: 40000
+0007.381 (R) [notice] Searching and replacing reached row: 45000
+0007.494 (R) [notice] Searching and replacing reached row: 50000
+0007.747 (R) [notice] Searching and replacing reached row: 55000
+0008.153 (R) [notice] Searching and replacing reached row: 60000
+0008.258 (R) [notice] Searching and replacing reached row: 65000
+0008.369 (R) [notice] Searching and replacing reached row: 70000
+0008.501 (R) [notice] Searching and replacing reached row: 75000
+0008.647 (R) [notice] Searching and replacing reached row: 80000
+0008.804 (R) [notice] Searching and replacing reached row: 85000
+0008.894 (R) [notice] Searching and replacing reached row: 90000
+0008.991 (R) [notice] Searching and replacing reached row: 95000
+0009.204 (R) [notice] Searching and replacing reached row: 100000
+0009.403 (R) [notice] Searching and replacing reached row: 105000
+0009.477 (R) [notice] Processing table (InnoDB):  zymo_posts - will restore as: 54_posts
+0009.950 (R) [notice] Atomic restore: dropping original table (wp_posts)
+0010.074 (R) [notice] Atomic restore: renaming new table (54_posts) to final table name (wp_posts)
+0010.156 (R) [notice] Search and replacing table: wp_posts: rows: 1440
+0010.221 (R) [notice] Processing table (InnoDB):  zymo_registration_log - will restore as: 54_registration_log
+0010.322 (R) [notice] Atomic restore: dropping original table (wp_registration_log)
+0010.323 (R) [notice] Atomic restore: renaming new table (54_registration_log) to final table name (wp_registration_log)
+0010.381 (R) [notice] Search and replacing table: wp_registration_log: rows: 0
+0010.382 (R) [notice] Processing table (InnoDB):  zymo_signups - will restore as: 54_signups
+0010.456 (R) [notice] Atomic restore: dropping original table (wp_signups)
+0010.456 (R) [notice] Atomic restore: renaming new table (54_signups) to final table name (wp_signups)
+0010.485 (R) [notice] Search and replacing table: wp_signups: rows: 0
+0010.485 (R) [notice] Processing table (InnoDB):  zymo_sitemeta - will restore as: 54_sitemeta
+0010.573 (R) [notice] Atomic restore: dropping original table (wp_sitemeta)
+0010.574 (R) [notice] Atomic restore: renaming new table (54_sitemeta) to final table name (wp_sitemeta)
+0010.594 (R) [notice] Search and replacing table: wp_sitemeta: rows: 23
+0010.597 (R) [notice] Processing table (InnoDB):  zymo_term_relationships - will restore as: 54_term_relationships
+0010.690 (R) [notice] Atomic restore: dropping original table (wp_term_relationships)
+0010.767 (R) [notice] Atomic restore: renaming new table (54_term_relationships) to final table name (wp_term_relationships)
+0010.870 (R) [notice] Search and replacing table: wp_term_relationships: rows: 153
+0010.873 (R) [notice] Processing table (InnoDB):  zymo_term_taxonomy - will restore as: 54_term_taxonomy
+0011.128 (R) [notice] Atomic restore: dropping original table (wp_term_taxonomy)
+0011.263 (R) [notice] Atomic restore: renaming new table (54_term_taxonomy) to final table name (wp_term_taxonomy)
+0011.360 (R) [notice] Search and replacing table: wp_term_taxonomy: rows: 100
+0011.368 (R) [notice] Processing table (InnoDB):  zymo_termmeta - will restore as: 54_termmeta
+0011.441 (R) [notice] Atomic restore: dropping original table (wp_termmeta)
+0011.462 (R) [notice] Atomic restore: renaming new table (54_termmeta) to final table name (wp_termmeta)
+0011.493 (R) [notice] Search and replacing table: wp_termmeta: rows: 0
+0011.493 (R) [notice] Processing table (InnoDB):  zymo_terms - will restore as: 54_terms
+0011.577 (R) [notice] Atomic restore: dropping original table (wp_terms)
+0011.593 (R) [notice] Atomic restore: renaming new table (54_terms) to final table name (wp_terms)
+0011.634 (R) [notice] Search and replacing table: wp_terms: rows: 100
+0011.635 (R) [notice] Processing table (InnoDB):  zymo_ig_actions - will restore as: 54_ig_actions
+0011.733 (R) [notice] Atomic restore: dropping original table (wp_ig_actions)
+0011.734 (R) [notice] Atomic restore: renaming new table (54_ig_actions) to final table name (wp_ig_actions)
+0011.843 (R) [notice] Search and replacing table: wp_ig_actions: rows: 6
+0011.844 (R) [notice] Processing table (InnoDB):  zymo_ig_blocked_emails - will restore as: 54_ig_blocked_emails
+0011.952 (R) [notice] Atomic restore: dropping original table (wp_ig_blocked_emails)
+0011.953 (R) [notice] Database queries processed: 100 in 11.89 seconds
+0011.953 (R) [notice] Atomic restore: renaming new table (54_ig_blocked_emails) to final table name (wp_ig_blocked_emails)
+0012.030 (R) [notice] Search and replacing table: wp_ig_blocked_emails: rows: 0
+0012.030 (R) [notice] Processing table (InnoDB):  zymo_ig_campaigns - will restore as: 54_ig_campaigns
+0012.088 (R) [notice] Atomic restore: dropping original table (wp_ig_campaigns)
+0012.088 (R) [notice] Atomic restore: renaming new table (54_ig_campaigns) to final table name (wp_ig_campaigns)
+0012.109 (R) [notice] Search and replacing table: wp_ig_campaigns: rows: 6
+0012.110 (R) [notice] Processing table (InnoDB):  zymo_ig_contact_meta - will restore as: 54_ig_contact_meta
+0012.141 (R) [notice] Atomic restore: dropping original table (wp_ig_contact_meta)
+0012.141 (R) [notice] Atomic restore: renaming new table (54_ig_contact_meta) to final table name (wp_ig_contact_meta)
+0012.157 (R) [notice] Search and replacing table: wp_ig_contact_meta: rows: 0
+0012.157 (R) [notice] Processing table (InnoDB):  zymo_ig_contactmeta - will restore as: 54_ig_contactmeta
+0012.193 (R) [notice] Atomic restore: dropping original table (wp_ig_contactmeta)
+0012.193 (R) [notice] Atomic restore: renaming new table (54_ig_contactmeta) to final table name (wp_ig_contactmeta)
+0012.206 (R) [notice] Search and replacing table: wp_ig_contactmeta: rows: 0
+0012.206 (R) [notice] Processing table (InnoDB):  zymo_ig_contacts - will restore as: 54_ig_contacts
+0012.332 (R) [notice] Atomic restore: dropping original table (wp_ig_contacts)
+0012.332 (R) [notice] Atomic restore: renaming new table (54_ig_contacts) to final table name (wp_ig_contacts)
+0012.358 (R) [notice] Search and replacing table: wp_ig_contacts: rows: 2
+0012.359 (R) [notice] Processing table (InnoDB):  zymo_ig_contacts_ips - will restore as: 54_ig_contacts_ips
+0012.399 (R) [notice] Atomic restore: dropping original table (wp_ig_contacts_ips)
+0012.400 (R) [notice] Atomic restore: renaming new table (54_ig_contacts_ips) to final table name (wp_ig_contacts_ips)
+0012.413 (R) [notice] Search and replacing table: wp_ig_contacts_ips: rows: 0
+0012.413 (R) [notice] Processing table (InnoDB):  zymo_ig_custom_fields - will restore as: 54_ig_custom_fields
+0012.446 (R) [notice] Atomic restore: dropping original table (wp_ig_custom_fields)
+0012.446 (R) [notice] Atomic restore: renaming new table (54_ig_custom_fields) to final table name (wp_ig_custom_fields)
+0012.465 (R) [notice] Search and replacing table: wp_ig_custom_fields: rows: 0
+0012.465 (R) [notice] Processing table (InnoDB):  zymo_ig_forms - will restore as: 54_ig_forms
+0012.506 (R) [notice] Atomic restore: dropping original table (wp_ig_forms)
+0012.506 (R) [notice] Atomic restore: renaming new table (54_ig_forms) to final table name (wp_ig_forms)
+0012.542 (R) [notice] Search and replacing table: wp_ig_forms: rows: 1
+0012.542 (R) [notice] Processing table (InnoDB):  zymo_ig_links - will restore as: 54_ig_links
+0012.607 (R) [notice] Atomic restore: dropping original table (wp_ig_links)
+0012.607 (R) [notice] Atomic restore: renaming new table (54_ig_links) to final table name (wp_ig_links)
+0012.642 (R) [notice] Search and replacing table: wp_ig_links: rows: 0
+0012.642 (R) [notice] Processing table (InnoDB):  zymo_ig_lists - will restore as: 54_ig_lists
+0012.780 (R) [notice] Atomic restore: dropping original table (wp_ig_lists)
+0012.780 (R) [notice] Atomic restore: renaming new table (54_ig_lists) to final table name (wp_ig_lists)
+0012.816 (R) [notice] Search and replacing table: wp_ig_lists: rows: 2
+0012.816 (R) [notice] Processing table (InnoDB):  zymo_ig_lists_contacts - will restore as: 54_ig_lists_contacts
+0012.890 (R) [notice] Atomic restore: dropping original table (wp_ig_lists_contacts)
+0012.891 (R) [notice] Atomic restore: renaming new table (54_ig_lists_contacts) to final table name (wp_ig_lists_contacts)
+0012.934 (R) [notice] Search and replacing table: wp_ig_lists_contacts: rows: 4
+0012.935 (R) [notice] Processing table (InnoDB):  zymo_ig_mailing_queue - will restore as: 54_ig_mailing_queue
+0012.993 (R) [notice] Atomic restore: dropping original table (wp_ig_mailing_queue)
+0012.993 (R) [notice] Atomic restore: renaming new table (54_ig_mailing_queue) to final table name (wp_ig_mailing_queue)
+0013.018 (R) [notice] Search and replacing table: wp_ig_mailing_queue: rows: 1
+0013.019 (R) [notice] Processing table (InnoDB):  zymo_ig_queue - will restore as: 54_ig_queue
+0013.080 (R) [notice] Atomic restore: dropping original table (wp_ig_queue)
+0013.080 (R) [notice] Atomic restore: renaming new table (54_ig_queue) to final table name (wp_ig_queue)
+0013.101 (R) [notice] Search and replacing table: wp_ig_queue: rows: 0
+0013.101 (R) [notice] Processing table (InnoDB):  zymo_ig_sending_queue - will restore as: 54_ig_sending_queue
+0013.167 (R) [notice] Atomic restore: dropping original table (wp_ig_sending_queue)
+0013.167 (R) [notice] Atomic restore: renaming new table (54_ig_sending_queue) to final table name (wp_ig_sending_queue)
+0013.199 (R) [notice] Search and replacing table: wp_ig_sending_queue: rows: 2
+0013.200 (R) [notice] Processing table (InnoDB):  zymo_ig_temp_import - will restore as: 54_ig_temp_import
+0013.246 (R) [notice] Atomic restore: dropping original table (wp_ig_temp_import)
+0013.246 (R) [notice] Atomic restore: renaming new table (54_ig_temp_import) to final table name (wp_ig_temp_import)
+0013.267 (R) [notice] Search and replacing table: wp_ig_temp_import: rows: 0
+0013.268 (R) [notice] Processing table (InnoDB):  zymo_ig_unsubscribe_feedback - will restore as: 54_ig_unsubscribe_feedback
+0013.300 (R) [notice] Atomic restore: dropping original table (wp_ig_unsubscribe_feedback)
+0013.300 (R) [notice] Atomic restore: renaming new table (54_ig_unsubscribe_feedback) to final table name (wp_ig_unsubscribe_feedback)
+0013.326 (R) [notice] Search and replacing table: wp_ig_unsubscribe_feedback: rows: 0
+0013.326 (R) [notice] Processing table (InnoDB):  zymo_ig_wc_cart - will restore as: 54_ig_wc_cart
+0013.604 (R) [notice] Atomic restore: dropping original table (wp_ig_wc_cart)
+0013.604 (R) [notice] Atomic restore: renaming new table (54_ig_wc_cart) to final table name (wp_ig_wc_cart)
+0013.657 (R) [notice] Search and replacing table: wp_ig_wc_cart: rows: 0
+0013.657 (R) [notice] Processing table (InnoDB):  zymo_ig_wc_guests - will restore as: 54_ig_wc_guests
+0013.758 (R) [notice] Atomic restore: dropping original table (wp_ig_wc_guests)
+0013.758 (R) [notice] Atomic restore: renaming new table (54_ig_wc_guests) to final table name (wp_ig_wc_guests)
+0013.822 (R) [notice] Search and replacing table: wp_ig_wc_guests: rows: 0
+0013.822 (R) [notice] Processing table (InnoDB):  zymo_ig_workflows - will restore as: 54_ig_workflows
+0013.941 (R) [notice] Atomic restore: dropping original table (wp_ig_workflows)
+0013.941 (R) [notice] Atomic restore: renaming new table (54_ig_workflows) to final table name (wp_ig_workflows)
+0014.039 (R) [notice] Search and replacing table: wp_ig_workflows: rows: 5
+0014.041 (R) [notice] Processing table (InnoDB):  zymo_ig_workflows_queue - will restore as: 54_ig_workflows_queue
+0014.114 (R) [notice] Atomic restore: dropping original table (wp_ig_workflows_queue)
+0014.114 (R) [notice] Atomic restore: renaming new table (54_ig_workflows_queue) to final table name (wp_ig_workflows_queue)
+0014.148 (R) [notice] Search and replacing table: wp_ig_workflows_queue: rows: 0
+0014.148 (R) [notice] Processing table (InnoDB):  zymo_litespeed_url - will restore as: 54_litespeed_url
+0014.199 (R) [notice] Atomic restore: dropping original table (wp_litespeed_url)
+0014.199 (R) [notice] Atomic restore: renaming new table (54_litespeed_url) to final table name (wp_litespeed_url)
+0014.228 (R) [notice] Search and replacing table: wp_litespeed_url: rows: 0
+0014.228 (R) [notice] Processing table (InnoDB):  zymo_litespeed_url_file - will restore as: 54_litespeed_url_file
+0014.289 (R) [notice] Atomic restore: dropping original table (wp_litespeed_url_file)
+0014.289 (R) [notice] Database queries processed: 150 in 14.23 seconds
+0014.289 (R) [notice] Atomic restore: renaming new table (54_litespeed_url_file) to final table name (wp_litespeed_url_file)
+0014.325 (R) [notice] Search and replacing table: wp_litespeed_url_file: rows: 0
+0014.325 (R) [notice] Processing table (InnoDB):  zymo_newsletter - will restore as: 54_newsletter
+0014.398 (R) [notice] Atomic restore: dropping original table (wp_newsletter)
+0014.399 (R) [notice] Atomic restore: renaming new table (54_newsletter) to final table name (wp_newsletter)
+0014.454 (R) [notice] Search and replacing table: wp_newsletter: rows: 6
+0014.458 (R) [notice] Processing table (InnoDB):  zymo_newsletter_emails - will restore as: 54_newsletter_emails
+0014.496 (R) [notice] Atomic restore: dropping original table (wp_newsletter_emails)
+0014.497 (R) [notice] Atomic restore: renaming new table (54_newsletter_emails) to final table name (wp_newsletter_emails)
+0014.518 (R) [notice] Search and replacing table: wp_newsletter_emails: rows: 0
+0014.518 (R) [notice] Processing table (InnoDB):  zymo_newsletter_sent - will restore as: 54_newsletter_sent
+0014.572 (R) [notice] Atomic restore: dropping original table (wp_newsletter_sent)
+0014.573 (R) [notice] Atomic restore: renaming new table (54_newsletter_sent) to final table name (wp_newsletter_sent)
+0014.733 (R) [notice] Search and replacing table: wp_newsletter_sent: rows: 0
+0014.734 (R) [notice] Processing table (InnoDB):  zymo_newsletter_stats - will restore as: 54_newsletter_stats
+0014.823 (R) [notice] Atomic restore: dropping original table (wp_newsletter_stats)
+0014.824 (R) [notice] Atomic restore: renaming new table (54_newsletter_stats) to final table name (wp_newsletter_stats)
+0014.867 (R) [notice] Search and replacing table: wp_newsletter_stats: rows: 0
+0014.867 (R) [notice] Processing table (InnoDB):  zymo_newsletter_user_logs - will restore as: 54_newsletter_user_logs
+0014.941 (R) [notice] Atomic restore: dropping original table (wp_newsletter_user_logs)
+0014.942 (R) [notice] Atomic restore: renaming new table (54_newsletter_user_logs) to final table name (wp_newsletter_user_logs)
+0014.994 (R) [notice] Search and replacing table: wp_newsletter_user_logs: rows: 29
+0014.995 (R) [notice] Processing table (InnoDB):  zymo_wfblockediplog - will restore as: 54_wfblockediplog
+0015.128 (R) [notice] Atomic restore: dropping original table (wp_wfblockediplog)
+0015.129 (R) [notice] Atomic restore: renaming new table (54_wfblockediplog) to final table name (wp_wfblockediplog)
+0015.165 (R) [notice] Search and replacing table: wp_wfblockediplog: rows: 1450
+0015.234 (R) [notice] Processing table (InnoDB):  zymo_wfblocks7 - will restore as: 54_wfblocks7
+0015.296 (R) [notice] Atomic restore: dropping original table (wp_wfblocks7)
+0015.297 (R) [notice] Atomic restore: renaming new table (54_wfblocks7) to final table name (wp_wfblocks7)
+0015.328 (R) [notice] Search and replacing table: wp_wfblocks7: rows: 0
+0015.328 (R) [notice] Processing table (InnoDB):  zymo_wfconfig - will restore as: 54_wfconfig
+0015.418 (R) [notice] Atomic restore: dropping original table (wp_wfconfig)
+0015.418 (R) [notice] Atomic restore: renaming new table (54_wfconfig) to final table name (wp_wfconfig)
+0015.454 (R) [notice] Search and replacing table: wp_wfconfig: rows: 227
+0015.468 (R) [notice] Processing table (InnoDB):  zymo_wfcrawlers - will restore as: 54_wfcrawlers
+0015.540 (R) [notice] Atomic restore: dropping original table (wp_wfcrawlers)
+0015.540 (R) [notice] Atomic restore: renaming new table (54_wfcrawlers) to final table name (wp_wfcrawlers)
+0015.559 (R) [notice] Search and replacing table: wp_wfcrawlers: rows: 51
+0015.564 (R) [notice] Processing table (InnoDB):  zymo_wffilechanges - will restore as: 54_wffilechanges
+0015.595 (R) [notice] Atomic restore: dropping original table (wp_wffilechanges)
+0015.595 (R) [notice] Atomic restore: renaming new table (54_wffilechanges) to final table name (wp_wffilechanges)
+0015.622 (R) [notice] Search and replacing table: wp_wffilechanges: rows: 0
+0015.622 (R) [notice] Processing table (InnoDB):  zymo_wffilemods - will restore as: 54_wffilemods
+0015.672 (R) [notice] Atomic restore: dropping original table (wp_wffilemods)
+0015.673 (R) [notice] Atomic restore: renaming new table (54_wffilemods) to final table name (wp_wffilemods)
+0015.696 (R) [notice] Search and replacing table: wp_wffilemods: rows: 0
+0015.696 (R) [notice] Processing table (InnoDB):  zymo_wfhits - will restore as: 54_wfhits
+0016.186 (R) [notice] Atomic restore: dropping original table (wp_wfhits)
+0016.186 (R) [notice] Atomic restore: renaming new table (54_wfhits) to final table name (wp_wfhits)
+0016.277 (R) [notice] Search and replacing table: wp_wfhits: rows: 1891
+0016.321 (R) [notice] Processing table (InnoDB):  zymo_wfhoover - will restore as: 54_wfhoover
+0016.419 (R) [notice] Atomic restore: dropping original table (wp_wfhoover)
+0016.419 (R) [notice] Atomic restore: renaming new table (54_wfhoover) to final table name (wp_wfhoover)
+0016.471 (R) [notice] Search and replacing table: wp_wfhoover: rows: 0
+0016.471 (R) [notice] Processing table (InnoDB):  zymo_wfissues - will restore as: 54_wfissues
+0016.532 (R) [notice] Atomic restore: dropping original table (wp_wfissues)
+0016.532 (R) [notice] Atomic restore: renaming new table (54_wfissues) to final table name (wp_wfissues)
+0016.552 (R) [notice] Search and replacing table: wp_wfissues: rows: 0
+0016.553 (R) [notice] Processing table (InnoDB):  zymo_wfknownfilelist - will restore as: 54_wfknownfilelist
+0016.598 (R) [notice] Atomic restore: dropping original table (wp_wfknownfilelist)
+0016.598 (R) [notice] Atomic restore: renaming new table (54_wfknownfilelist) to final table name (wp_wfknownfilelist)
+0016.629 (R) [notice] Search and replacing table: wp_wfknownfilelist: rows: 0
+0016.629 (R) [notice] Processing table (InnoDB):  zymo_wflivetraffichuman - will restore as: 54_wflivetraffichuman
+0016.684 (R) [notice] Atomic restore: dropping original table (wp_wflivetraffichuman)
+0016.684 (R) [notice] Atomic restore: renaming new table (54_wflivetraffichuman) to final table name (wp_wflivetraffichuman)
+0016.713 (R) [notice] Search and replacing table: wp_wflivetraffichuman: rows: 0
+0016.714 (R) [notice] Processing table (InnoDB):  zymo_wflocs - will restore as: 54_wflocs
+0016.763 (R) [notice] Atomic restore: dropping original table (wp_wflocs)
+0016.763 (R) [notice] Atomic restore: renaming new table (54_wflocs) to final table name (wp_wflocs)
+0016.793 (R) [notice] Search and replacing table: wp_wflocs: rows: 0
+0016.793 (R) [notice] Processing table (InnoDB):  zymo_wflogins - will restore as: 54_wflogins
+0016.880 (R) [notice] Atomic restore: dropping original table (wp_wflogins)
+0016.880 (R) [notice] Atomic restore: renaming new table (54_wflogins) to final table name (wp_wflogins)
+0016.909 (R) [notice] Search and replacing table: wp_wflogins: rows: 397
+0016.916 (R) [notice] Processing table (InnoDB):  zymo_wfls_2fa_secrets - will restore as: 54_wfls_2fa_secrets
+0016.961 (R) [notice] Atomic restore: dropping original table (wp_wfls_2fa_secrets)
+0016.961 (R) [notice] Atomic restore: renaming new table (54_wfls_2fa_secrets) to final table name (wp_wfls_2fa_secrets)
+0017.061 (R) [notice] Search and replacing table: wp_wfls_2fa_secrets: rows: 0
+0017.061 (R) [notice] Processing table (InnoDB):  zymo_wfls_settings - will restore as: 54_wfls_settings
+0017.284 (R) [notice] Atomic restore: dropping original table (wp_wfls_settings)
+0017.285 (R) [notice] Database queries processed: 200 in 17.22 seconds
+0017.285 (R) [notice] Atomic restore: renaming new table (54_wfls_settings) to final table name (wp_wfls_settings)
+0017.386 (R) [notice] Search and replacing table: wp_wfls_settings: rows: 24
+0017.389 (R) [notice] Processing table (InnoDB):  zymo_wfnotifications - will restore as: 54_wfnotifications
+0017.466 (R) [notice] Atomic restore: dropping original table (wp_wfnotifications)
+0017.466 (R) [notice] Atomic restore: renaming new table (54_wfnotifications) to final table name (wp_wfnotifications)
+0017.498 (R) [notice] Search and replacing table: wp_wfnotifications: rows: 1
+0017.499 (R) [notice] Processing table (InnoDB):  zymo_wfpendingissues - will restore as: 54_wfpendingissues
+0017.579 (R) [notice] Atomic restore: dropping original table (wp_wfpendingissues)
+0017.580 (R) [notice] Atomic restore: renaming new table (54_wfpendingissues) to final table name (wp_wfpendingissues)
+0017.626 (R) [notice] Search and replacing table: wp_wfpendingissues: rows: 0
+0017.626 (R) [notice] Processing table (InnoDB):  zymo_wfreversecache - will restore as: 54_wfreversecache
+0017.788 (R) [notice] Atomic restore: dropping original table (wp_wfreversecache)
+0017.789 (R) [notice] Atomic restore: renaming new table (54_wfreversecache) to final table name (wp_wfreversecache)
+0017.851 (R) [notice] Search and replacing table: wp_wfreversecache: rows: 3
+0017.852 (R) [notice] Processing table (InnoDB):  zymo_wfsnipcache - will restore as: 54_wfsnipcache
+0017.899 (R) [notice] Atomic restore: dropping original table (wp_wfsnipcache)
+0017.900 (R) [notice] Atomic restore: renaming new table (54_wfsnipcache) to final table name (wp_wfsnipcache)
+0017.924 (R) [notice] Search and replacing table: wp_wfsnipcache: rows: 0
+0017.925 (R) [notice] Processing table (InnoDB):  zymo_wfstatus - will restore as: 54_wfstatus
+0017.981 (R) [notice] Atomic restore: dropping original table (wp_wfstatus)
+0017.982 (R) [notice] Atomic restore: renaming new table (54_wfstatus) to final table name (wp_wfstatus)
+0018.008 (R) [notice] Search and replacing table: wp_wfstatus: rows: 0
+0018.009 (R) [notice] Processing table (InnoDB):  zymo_wftrafficrates - will restore as: 54_wftrafficrates
+0018.059 (R) [notice] Atomic restore: dropping original table (wp_wftrafficrates)
+0018.059 (R) [notice] Atomic restore: renaming new table (54_wftrafficrates) to final table name (wp_wftrafficrates)
+0018.082 (R) [notice] Search and replacing table: wp_wftrafficrates: rows: 0
+0018.082 (R) [notice] Processing table (InnoDB):  zymo_wpmailsmtp_debug_events - will restore as: 54_wpmailsmtp_debug_events
+0018.123 (R) [notice] Atomic restore: dropping original table (wp_wpmailsmtp_debug_events)
+0018.123 (R) [notice] Atomic restore: renaming new table (54_wpmailsmtp_debug_events) to final table name (wp_wpmailsmtp_debug_events)
+0018.139 (R) [notice] Search and replacing table: wp_wpmailsmtp_debug_events: rows: 0
+0018.139 (R) [notice] Processing table (InnoDB):  zymo_wpmailsmtp_tasks_meta - will restore as: 54_wpmailsmtp_tasks_meta
+0018.186 (R) [notice] Atomic restore: dropping original table (wp_wpmailsmtp_tasks_meta)
+0018.187 (R) [notice] Atomic restore: renaming new table (54_wpmailsmtp_tasks_meta) to final table name (wp_wpmailsmtp_tasks_meta)
+0018.214 (R) [notice] Search and replacing table: wp_wpmailsmtp_tasks_meta: rows: 0
+0018.214 (R) [notice] Processing table (InnoDB):  zymo_yoast_indexable - will restore as: 54_yoast_indexable
+0018.327 (R) [notice] Atomic restore: dropping original table (wp_yoast_indexable)
+0018.327 (R) [notice] Atomic restore: renaming new table (54_yoast_indexable) to final table name (wp_yoast_indexable)
+0018.451 (R) [notice] Search and replacing table: wp_yoast_indexable: rows: 493
+0019.121 (R) [notice] Processing table (InnoDB):  zymo_yoast_indexable_hierarchy - will restore as: 54_yoast_indexable_hierarchy
+0019.242 (R) [notice] Atomic restore: dropping original table (wp_yoast_indexable_hierarchy)
+0019.242 (R) [notice] Atomic restore: renaming new table (54_yoast_indexable_hierarchy) to final table name (wp_yoast_indexable_hierarchy)
+0019.282 (R) [notice] Search and replacing table: wp_yoast_indexable_hierarchy: rows: 260
+0019.285 (R) [notice] Processing table (InnoDB):  zymo_yoast_migrations - will restore as: 54_yoast_migrations
+0019.367 (R) [notice] Atomic restore: dropping original table (wp_yoast_migrations)
+0019.367 (R) [notice] Atomic restore: renaming new table (54_yoast_migrations) to final table name (wp_yoast_migrations)
+0019.403 (R) [notice] Search and replacing table: wp_yoast_migrations: rows: 23
+0019.404 (R) [notice] Processing table (InnoDB):  zymo_yoast_primary_term - will restore as: 54_yoast_primary_term
+0019.475 (R) [notice] Atomic restore: dropping original table (wp_yoast_primary_term)
+0019.476 (R) [notice] Atomic restore: renaming new table (54_yoast_primary_term) to final table name (wp_yoast_primary_term)
+0019.644 (R) [notice] Search and replacing table: wp_yoast_primary_term: rows: 57
+0019.645 (R) [notice] Processing table (InnoDB):  zymo_yoast_seo_links - will restore as: 54_yoast_seo_links
+0019.707 (R) [notice] Disabling Maintenance mode&#8230;
+0019.708 (R) [notice] Atomic restore: dropping original table (wp_yoast_seo_links)
+0019.708 (R) [notice] Atomic restore: renaming new table (54_yoast_seo_links) to final table name (wp_yoast_seo_links)
+0019.739 (R) [notice] Search and replacing table: wp_yoast_seo_links: rows: 20
+0019.740 (R) [notice] Finished: lines processed: 235 in 19.68 seconds
+0019.741 (R) [notice] Cleaning up rubbish...
+0019.794 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-plugins.zip, 23.7 MB)
+0020.225 (R) [notice] Unzip progress: 1154 out of 6460 files (1.3 KB, plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Command/ClosureCommand.php)
+0021.439 (R) [notice] Unzip progress: 2155 out of 6460 files (22.2 MB, plugins/wordpress-seo/src/helpers/post-type-helper.php)
+0024.484 (R) [notice] Unzip progress: 3156 out of 6460 files (34.9 MB, plugins/wp-mail-smtp/vendor_prefixed/phpseclib/phpseclib/phpseclib/Crypt/Common/Formats/Keys/PKCS.php)
+0026.860 (R) [notice] Unzip progress: 4157 out of 6460 files (44.1 MB, plugins/contact-form-7/modules/response.php)
+0030.152 (R) [notice] Unzip progress: 5158 out of 6460 files (52.2 MB, plugins/advanced-custom-fields-pro/assets/images/field-type-icons/icon-field-repeater.svg)
+0033.044 (R) [notice] Unzip progress: 6159 out of 6460 files (64.6 MB, plugins/advanced-custom-fields-pro/lang/acf-nl_NL_formal.po)
+0033.868 (R) [notice] Unzip progress: 6460 out of 6460 files (70.9 MB, plugins/advanced-custom-fields-pro/assets/images/field-type-icons/icon-field-link.svg)
+0033.877 (R) [notice] Moving old data out of the way...
+0034.283 (R) [notice] Moving unpacked backup into place...
+0035.659 (R) [notice] Cleaning up rubbish...
+0035.663 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-plugins2.zip, 8.3 MB)
+0038.149 (R) [notice] Unzip progress: 1002 out of 1178 files (23.1 MB, plugins/wordfence/vendor/wordfence/wf-waf/src/rules.key)
+0039.287 (R) [notice] Unzip progress: 1178 out of 1178 files (25.7 MB, plugins/wordfence/modules/login-security/views/options/option-text.php)
+0039.298 (R) [notice] Moving unpacked backup into place...
+0040.974 (R) [notice] Cleaning up rubbish...
+0040.986 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-themes.zip, 165.4 MB)
+0043.144 (R) [notice] Unzip progress: 25 out of 338 files (145.9 MB, themes/zymo_theme/videos/skincare-cosmetic-mockup-product-produced-in-a-can-2022-11-09-20-41-51-utc.mov)
+0043.574 (R) [notice] Unzip progress: 338 out of 338 files (167.4 MB, themes/index.php)
+0043.578 (R) [notice] Moving old data out of the way...
+0043.635 (R) [notice] Moving unpacked backup into place...
+0043.670 (R) [notice] Cleaning up rubbish...
+0043.674 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-themes2.zip, 27.1 MB)
+0044.289 (R) [notice] Unzip progress: 313 out of 313 files (41 MB, themes/zymo_theme/videos/banner/10010.jpg)
+0044.292 (R) [notice] Moving unpacked backup into place...
+0044.653 (R) [notice] Cleaning up rubbish...
+0044.672 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-themes3.zip, 17.6 MB)
+0044.862 (R) [notice] Unzip progress: 42 out of 42 files (22.6 MB, themes/zymo_theme/js/draco/gltf/draco_decoder.js)
+0044.870 (R) [notice] Moving unpacked backup into place...
+0044.912 (R) [notice] Cleaning up rubbish...
+0044.950 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads.zip, 25 MB)
+0045.190 (R) [notice] Unzip progress: 231 out of 231 files (25.1 MB, uploads/ig-logs/.htaccess)
+0045.194 (R) [notice] Moving old data out of the way...
+0045.198 (R) [notice] Moving unpacked backup into place...
+0045.249 (R) [notice] Cleaning up rubbish...
+0045.268 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads2.zip, 25.3 MB)
+0045.554 (R) [notice] Unzip progress: 207 out of 207 files (25.6 MB, uploads/2023/01/skin-discolouration-cream.jpg)
+0045.556 (R) [notice] Moving unpacked backup into place...
+0046.081 (R) [notice] Cleaning up rubbish...
+0046.087 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads3.zip, 25.1 MB)
+0046.352 (R) [notice] Unzip progress: 224 out of 224 files (25.2 MB, uploads/2023/01/tata-150x150.jpg)
+0046.353 (R) [notice] Moving unpacked backup into place...
+0046.464 (R) [notice] Cleaning up rubbish...
+0046.485 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads4.zip, 25.3 MB)
+0046.784 (R) [notice] Unzip progress: 287 out of 287 files (25.4 MB, uploads/2023/01/1-1.jpg)
+0046.786 (R) [notice] Moving unpacked backup into place...
+0047.306 (R) [notice] Cleaning up rubbish...
+0047.344 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads5.zip, 25.1 MB)
+0047.627 (R) [notice] Unzip progress: 244 out of 244 files (25.4 MB, uploads/2023/02/Parshva-CompanyLogo.jpg)
+0047.629 (R) [notice] Moving unpacked backup into place...
+0047.754 (R) [notice] Cleaning up rubbish...
+0047.763 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-uploads6.zip, 23.4 MB)
+0048.129 (R) [notice] Unzip progress: 345 out of 345 files (23.4 MB, uploads/2023/02/Advanced-Mineral-Sunscreen-Gel.jpg)
+0048.131 (R) [notice] Moving unpacked backup into place...
+0048.440 (R) [notice] Cleaning up rubbish...
+0048.588 (R) [notice] Unpacking backup... (backup_2023-03-10-1219_Zymo_Cosmetics_0f63bb6a2b99-others.zip, 6 MB)
+0049.064 (R) [notice] Unzip progress: 200 out of 200 files (12.6 MB, assets/Home-2022-12-09+06_17_21.721196/F099D65D-DEC3-42F2-9C92-CA4227284560.jpg)
+0049.077 (R) [notice] Cleaning up rubbish...
+0049.078 (R) [notice] Error: Failed to delete working directory after restoring. (C:/xampp/htdocs/wordpress/wp-content/upgrade/22d1743b)
+0049.079 (R) [notice] Files found:
+0049.079 (R) [notice] * upgrade
+0050.134 (R) [notice] Restore successful!

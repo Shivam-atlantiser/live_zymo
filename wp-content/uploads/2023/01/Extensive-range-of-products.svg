@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="502px" height="502px" viewBox="0 0 502 502" version="1.1">
+  <title>Extensive range of products</title>
+  <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Extensive-range-of-products" transform="translate(6.000000, 6.000000)" stroke="#000" stroke-width="11.54">
+      <rect id="Rectangle" x="0" y="245" width="245" height="245"></rect>
+      <rect id="Rectangle" x="245" y="245" width="245" height="245"></rect>
+      <rect id="Rectangle" x="122.5" y="0" width="245" height="245"></rect>
+      <polyline id="Path" points="289.03 0 289.03 122.5 245.1 68.01 200.97 122.5 200.97 0"></polyline>
+      <polyline id="Path" points="411.53 245 411.53 367.5 367.6 313.01 323.47 367.5 323.47 245"></polyline>
+      <polyline id="Path" points="166.53 245 166.53 367.5 122.6 313.01 78.47 367.5 78.47 245"></polyline>
+    </g>
+  </g>
+</svg>

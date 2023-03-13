@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1" viewBox="0 0 200 200">
+  <defs>
+    <style>.cls-1,.cls-11,.cls-4{fill:#fff;}.cls-2{clip-path:url(#clip-path);}.cls-3{clip-path:url(#clip-path-2);}.cls-4{font-size:12.26px;font-family:MyriadPro-Regular, Myriad Pro;}.cls-5{letter-spacing:0.27em;}.cls-6{letter-spacing:0.29em;}.cls-7{letter-spacing:0.3em;}.cls-8{letter-spacing:0.29em;}.cls-9{letter-spacing:0.29em;}.cls-10{letter-spacing:0.29em;}.cls-11{font-size:3.31px;font-family:Arial-BoldMT, Arial;font-weight:700;}</style>
+    <clipPath id="clip-path">
+      <path class="cls-1" d="M152.22,50c-7.11,0-12.88,4.19-12.88,9.36V99.62a16.39,16.39,0,0,1-32.77,0,30.71,30.71,0,0,1-7.26,19.88,30.89,30.89,0,0,0,54.45-17.69V50Z"></path>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path class="cls-1" d="M99.31,79.73C92.42,86.9,92,96.57,92,99c0,.19,0,.39,0,.59A16.39,16.39,0,1,1,75.68,83.23a16.21,16.21,0,0,1,6.43,1.32A34.24,34.24,0,0,1,87.56,71.1a30.88,30.88,0,1,0,19,28.52,16.39,16.39,0,1,1,32.77,0V73.43a30.91,30.91,0,0,0-40,6.3"></path>
+    </clipPath>
+  </defs>
+  <title>Artboard 5 copy</title>
+  <path class="cls-1" d="M152.22,50c-7.11,0-12.88,4.19-12.88,9.36V99.62a16.39,16.39,0,0,1-32.77,0,30.71,30.71,0,0,1-7.26,19.88,30.89,30.89,0,0,0,54.45-17.69V50Z"></path>
+  <g class="cls-2">
+    <rect class="cls-1" x="99.31" y="50" width="54.45" height="80.51"></rect>
+  </g>
+  <path class="cls-1" d="M99.31,79.73C92.42,86.9,92,96.57,92,99c0,.19,0,.39,0,.59A16.39,16.39,0,1,1,75.68,83.23a16.21,16.21,0,0,1,6.43,1.32A34.24,34.24,0,0,1,87.56,71.1a30.88,30.88,0,1,0,19,28.52,16.39,16.39,0,1,1,32.77,0V73.43a30.91,30.91,0,0,0-40,6.3"></path>
+  <g class="cls-3">
+    <rect class="cls-1" x="44.78" y="68.73" width="94.55" height="61.78"></rect>
+  </g>
+  <text class="cls-4" transform="translate(47.93 146.94)">
+    <tspan class="cls-5">C</tspan>
+    <tspan class="cls-6" x="10.47" y="0">O</tspan>
+    <tspan class="cls-7" x="22.52" y="0">NT</tspan>
+    <tspan class="cls-8" x="43.91" y="0">I</tspan>
+    <tspan class="cls-9" x="50.44" y="0">DER</tspan>
+    <tspan class="cls-10" x="82.07" y="0">M</tspan>
+    <tspan x="95.42" y="0">A</tspan>
+  </text>
+  <text class="cls-11" transform="translate(150.44 140.05)">TM</text>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="474px" height="502px" viewBox="0 0 474 502" version="1.1">
+  <title>Following Regulatory Compliances</title>
+  <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Following-Regulatory-Compliances" transform="translate(6.570000, 6.010000)" stroke="#000" stroke-width="11.54">
+      <polyline id="Path" points="364.14 443.53 364.14 490 0 490 0 0 364.14 0 364.14 196.79"></polyline>
+      <rect id="Rectangle" x="59.26" y="61.12" width="30.65" height="30.65"></rect>
+      <line x1="114.02" y1="74.31" x2="253.43" y2="74.31" id="Path"></line>
+      <rect id="Rectangle" x="59.26" y="192.11" width="30.65" height="30.65"></rect>
+      <line x1="114.02" y1="205.3" x2="253.43" y2="205.3" id="Path"></line>
+      <rect id="Rectangle" x="59.26" y="126.62" width="30.65" height="30.65"></rect>
+      <line x1="114.02" y1="139.81" x2="253.43" y2="139.81" id="Path"></line>
+      <g id="Group" transform="translate(267.420000, 222.760000)">
+        <circle id="Oval" cx="96.72" cy="96.72" r="96.72"></circle>
+        <polyline id="Path" points="45.53 92.95 70.2 131.22 154.86 68.68"></polyline>
+      </g>
+      <rect id="Rectangle" x="59.26" y="256.87" width="30.65" height="30.65"></rect>
+      <line x1="114.02" y1="270.06" x2="219.99" y2="270.06" id="Path"></line>
+    </g>
+  </g>
+</svg>

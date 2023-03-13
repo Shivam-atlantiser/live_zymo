@@ -1,0 +1,21 @@
+/*
+Theme Name: Zymo cosmatics
+Author: Atlantiser
+Author URI: http://atlantiser.com
+version: 1.0
+Text domain: zymo
+*/
+.cookie-notice {
+    transform: translateY(160%);
+  }
+ .main-container{
+  opacity: 0;
+ }
+.loaded .main-container{
+  opacity: 1;
+}
+
+button.submiting{
+    pointer-events:none;
+    touch-action:none;
+}

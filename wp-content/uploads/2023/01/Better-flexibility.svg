@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="490px" height="326px" viewBox="0 0 490 326" version="1.1">
+  <title>Better flexibility</title>
+  <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Better-flexibility" transform="translate(0.000000, 4.820000)" stroke="#000" stroke-width="11.54">
+      <line x1="247.11" y1="0.01" x2="247.11" y2="316.36" id="Path"></line>
+      <path d="M327.98,217.14 C339.59,256.31 362.48,290.64 392.88,316.36" id="Path"></path>
+      <path d="M392.9,0 C361.67,26.42 338.36,61.92 327.07,102.43" id="Path"></path>
+      <path d="M330.38,0.01 C297.73,44.27 278.44,98.97 278.44,158.19 C278.44,217.41 297.74,272.11 330.38,316.37" id="Path"></path>
+      <path d="M160.08,0.01 C192.73,44.27 212.02,98.97 212.02,158.19 C212.02,217.41 192.72,272.11 160.08,316.37" id="Path"></path>
+      <polyline id="Path" points="490 204.69 414.68 204.69 414.68 240.9 315.68 157.92 414.15 75.46 414.68 109.95 490 109.95"></polyline>
+      <path d="M162.02,99.22 C150.41,60.05 127.52,25.72 97.12,0" id="Path"></path>
+      <path d="M97.1,316.36 C128.33,289.94 151.64,254.44 162.93,213.93" id="Path"></path>
+      <polyline id="Path" points="0 111.67 75.32 111.67 75.32 75.46 174.32 158.44 75.85 240.9 75.32 206.41 0 206.41"></polyline>
+    </g>
+  </g>
+</svg>

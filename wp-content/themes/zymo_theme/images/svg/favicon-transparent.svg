@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 23</title>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-23">
+            <rect id="Rectangle-Copy-28" x="0" y="0" width="65" height="65" rx="4"></rect>
+            <g id="Group-18-Copy" transform="translate(11.000000, 7.000000)" fill="#655BC6" fill-rule="nonzero">
+                <path d="M21.4427916,25 L31.8792604,0 L42.8287309,0 C42.8693017,12.6797386 33.5725408,23.1944444 21.4427916,25 Z" id="Path"></path>
+                <path d="M21.4427916,25 L11.0063228,50 L0.0569001208,50 C0.0244223139,37.3202614 9.32118314,26.8055556 21.4427916,25 Z" id="Path"></path>
+                <polygon id="Path" points="42.8855832 31.748366 28.8346119 50 13.5950881 50 27.6460593 31.748366"></polygon>
+                <polygon id="Path" points="0 18.251634 14.0509713 0 29.2986359 0 15.2476646 18.251634"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

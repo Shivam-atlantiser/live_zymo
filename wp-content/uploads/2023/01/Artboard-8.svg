@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 512 512">
+  <defs>
+    <style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:11.54px;}</style>
+  </defs>
+  <g>
+    <polyline class="cls-1" points="376.01 69.46 447.58 69.46 447.58 272.76"></polyline>
+    <line class="cls-1" x1="243.25" y1="69.46" x2="344.85" y2="69.46"></line>
+    <line class="cls-1" x1="110.5" y1="69.46" x2="212.1" y2="69.46"></line>
+    <polyline class="cls-1" points="314.91 439.59 11 439.59 11 69.46 79.34 69.46"></polyline>
+    <rect class="cls-1" x="48.19" y="181.18" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="128.76" y="181.18" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="207.37" y="181.18" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="48.19" y="260.08" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="128.76" y="260.08" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="207.37" y="260.08" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="48.19" y="337.07" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="128.76" y="337.07" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="207.37" y="337.07" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="287.94" y="181.18" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="365.76" y="181.18" width="41.09" height="41.09"></rect>
+    <rect class="cls-1" x="79.34" y="38.8" width="31.16" height="61.31"></rect>
+    <rect class="cls-1" x="212.1" y="38.8" width="31.16" height="61.31"></rect>
+    <rect class="cls-1" x="344.85" y="38.8" width="31.16" height="61.31"></rect>
+    <circle class="cls-1" cx="393.49" cy="365.69" r="107.51"></circle>
+    <line class="cls-1" x1="11" y1="136.85" x2="447.58" y2="136.85"></line>
+  </g>
+  <path d="M436.37,331.49v-13.01h-71.55v13.01h22.77c8.47,0,15.62,5.45,18.31,13.01h-41.08v13.01h41.08c-1.34,3.79-3.81,7.08-7.09,9.41-3.28,2.33-7.2,3.59-11.22,3.6h-22.77v15.7l36.33,36.33h18.39l-39.03-39.03h7.06c7.49,0,14.75-2.6,20.56-7.34,5.8-4.74,9.79-11.34,11.3-18.67h16.92v-13.01h-16.92c-1-4.73-3.05-9.18-6.01-13.01h22.93Z"></path>
+</svg>

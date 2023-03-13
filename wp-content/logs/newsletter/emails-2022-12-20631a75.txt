@@ -1,0 +1,4 @@
+27-12-2022 04:59:38 - ERROR - 7.5.9 - 43.7 MB/512 MB - admin > Missing block.php file in C:/xamppx/htdocs/zymo/wordpress/wp-content/plugins/newsletter/emails/blocks (1) - 
+27-12-2022 04:59:38 - ERROR - 7.5.9 - 43.7 MB/512 MB - admin > Missing block.php file in C:/xamppx/htdocs/zymo/wordpress/wp-content/plugins/newsletter/emails (1) - 
+27-12-2022 04:59:39 - ERROR - 7.5.9 - 37.6 MB/512 MB - admin > Missing block.php file in C:/xamppx/htdocs/zymo/wordpress/wp-content/plugins/newsletter/emails/blocks (1) - 
+27-12-2022 04:59:39 - ERROR - 7.5.9 - 37.6 MB/512 MB - admin > Missing block.php file in C:/xamppx/htdocs/zymo/wordpress/wp-content/plugins/newsletter/emails (1) - 

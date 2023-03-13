@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="496px" height="282px" viewBox="0 0 496 282" version="1.1">
+  <title>Order Delivery Commitments</title>
+  <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Order-Delivery-Commitments" transform="translate(0.000000, 6.320000)" stroke="#000" stroke-width="11.54">
+      <polyline id="Path" points="72.17 88.86 72.17 231.4 147.17 231.4"></polyline>
+      <polyline id="Path" points="224.25 231.4 359.38 231.4 359.38 0 72.17 0 72.17 38.85"></polyline>
+      <polyline id="Path" points="462.48 231.4 490 231.4 490 150 411.7 71.7 359.37 71.7 359.37 231.39 387.05 231.39"></polyline>
+      <circle id="Oval" cx="424.69" cy="231.4" r="37.98"></circle>
+      <circle id="Oval" cx="185.88" cy="231.4" r="37.98"></circle>
+      <line x1="18.58" y1="42.93" x2="135.44" y2="42.93" id="Path"></line>
+      <line x1="34.28" y1="131.6" x2="194.45" y2="131.6" id="Path"></line>
+      <line x1="0" y1="88.86" x2="56.14" y2="88.86" id="Path"></line>
+    </g>
+  </g>
+</svg>

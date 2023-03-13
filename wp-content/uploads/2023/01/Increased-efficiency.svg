@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="502px" height="376px" viewBox="0 0 502 376" version="1.1">
+  <title>Increased efficiency</title>
+  <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Increased-efficiency" transform="translate(6.000000, 0.700000)">
+      <circle id="Oval" stroke="#1F1646" stroke-width="11.54" cx="100.23" cy="268.37" r="100.23"></circle>
+      <line x1="100.23" y1="368.6" x2="490" y2="368.6" id="Path" stroke="#1F1646" stroke-width="11.54"></line>
+      <rect id="Rectangle" stroke="#1F1646" stroke-width="11.54" x="416.64" y="124.96" width="73.36" height="243.63"></rect>
+      <rect id="Rectangle" stroke="#1F1646" stroke-width="11.54" x="321.03" y="188.83" width="73.36" height="179.77"></rect>
+      <rect id="Rectangle" stroke="#1F1646" stroke-width="11.54" x="225.43" y="252.69" width="73.36" height="115.91"></rect>
+      <g id="Group" transform="translate(210.070000, 0.000000)">
+        <line x1="0" y1="198.69" x2="245.74" y2="24.19" id="Path" stroke="#1F1646" stroke-width="11.54"></line>
+        <path d="M279.8,0 C267.99,17.33 255.31,41.6 250.62,61.11 L241.27,27.37 L212.5,7.43 C232.46,9.42 259.56,5.45 279.81,0.01 L279.8,0 Z" id="Path" fill="#1F1646" fill-rule="nonzero"></path>
+      </g>
+      <line x1="100.23" y1="268.37" x2="64.95" y2="233.1" id="Path" stroke="#1F1646" stroke-width="11.54"></line>
+      <line x1="47.02" y1="321.58" x2="100.23" y2="268.37" id="Path" stroke="#1F1646" stroke-width="11.54"></line>
+      <circle id="Oval" stroke="#1F1646" stroke-width="11.54" cx="100.31" cy="268.86" r="7.39"></circle>
+      <line x1="100.23" y1="168.14" x2="100.23" y2="205.53" id="Path" stroke="#1F1646" stroke-width="11.54"></line>
+      <line x1="100.23" y1="331.21" x2="100.23" y2="368.6" id="Path" stroke="#1F1646" stroke-width="11.54"></line>
+    </g>
+  </g>
+</svg>

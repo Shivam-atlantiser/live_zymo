@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="502px" height="446px" viewBox="0 0 502 446" version="1.1">
+  <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Timely-Paymnets-to-the-Suppliers" transform="translate(6.000000, 5.810000)">
+      <g id="Group" stroke="#000" stroke-width="11.54">
+        <polyline id="Path" points="365.01 30.66 436.58 30.66 436.58 233.96"></polyline>
+        <line x1="232.25" y1="30.66" x2="333.85" y2="30.66" id="Path"></line>
+        <line x1="99.5" y1="30.66" x2="201.1" y2="30.66" id="Path"></line>
+        <polyline id="Path" points="303.91 400.79 0 400.79 0 30.66 68.34 30.66"></polyline>
+        <rect id="Rectangle" x="37.19" y="142.38" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="117.76" y="142.38" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="196.37" y="142.38" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="37.19" y="221.28" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="117.76" y="221.28" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="196.37" y="221.28" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="37.19" y="298.27" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="117.76" y="298.27" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="196.37" y="298.27" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="276.94" y="142.38" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="354.76" y="142.38" width="41.09" height="41.09"></rect>
+        <rect id="Rectangle" x="68.34" y="0" width="31.16" height="61.31"></rect>
+        <rect id="Rectangle" x="201.1" y="0" width="31.16" height="61.31"></rect>
+        <rect id="Rectangle" x="333.85" y="0" width="31.16" height="61.31"></rect>
+        <circle id="Oval" cx="382.49" cy="326.89" r="107.51"></circle>
+        <line x1="0" y1="98.05" x2="436.58" y2="98.05" id="Path"></line>
+      </g>
+      <path class="path" d="M425.37,292.69 L425.37,279.68 L353.82,279.68 L353.82,292.69 L376.59,292.69 C385.06,292.69 392.21,298.14 394.9,305.7 L353.82,305.7 L353.82,318.71 L394.9,318.71 C393.56,322.5 391.09,325.79 387.81,328.12 C384.53,330.45 380.61,331.71 376.59,331.72 L353.82,331.72 L353.82,347.42 L390.15,383.75 L408.54,383.75 L369.51,344.72 L376.57,344.72 C384.06,344.72 391.32,342.12 397.13,337.38 C402.93,332.64 406.92,326.04 408.43,318.71 L425.35,318.71 L425.35,305.7 L408.43,305.7 C407.43,300.97 405.38,296.52 402.42,292.69 L425.35,292.69 L425.37,292.69 Z" id="Path" fill="#000" fill-rule="nonzero"></path>
+    </g>
+  </g>
+</svg>
